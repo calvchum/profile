@@ -26,6 +26,7 @@ body {
   color: #505A5B;
   background: url(images/backgroundimage.jpg);
   background-size: cover;
+  background-position: center;
   font-weight: 300;
   font-size: 15px
 }
