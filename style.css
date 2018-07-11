@@ -6,8 +6,8 @@ h1 {
 
 h2 {
   color: #7D7D7D;
-  font-size: 18px;
-  font-weight: lighter;
+  font-size: 24px;
+  font-weight: 600;
 }
 
 h3 {
@@ -17,14 +17,14 @@ h3 {
 }
 
 p {
-  font-size: 10px;
-  margin: 15px;
+  font-size: 12px;
+  margin: 32px;
   font-family: 'Open Sans', sans-serif;
 }
 body {
   font-family: 'Open Sans', sans-serif;
   color: #505A5B;
-  background: #F8C958;
+  background: url(images/greenleaves.jpg);
   font-weight: 300;
   font-size: 15px
 }
@@ -53,7 +53,7 @@ tbody {
 }
 
 .container {
-  width: 500px;   /* This sets the width */
+  width: 45%;   /* This sets the width */
   margin: 0 auto; /* This automatically sets left/right margins */
 }
 
@@ -68,7 +68,7 @@ tbody {
 }
 
 .card {
-  background: white;
+  background-color: rgba(255,255,255,0.85);
   padding: 20px;
   margin-bottom: 20px;
   border-radius: 4px;
