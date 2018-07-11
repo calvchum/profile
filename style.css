@@ -24,7 +24,7 @@ p {
 body {
   font-family: 'Open Sans', sans-serif;
   color: #505A5B;
-  background: #EBEBEB;
+  background: #E1E5EE;
   font-weight: 300;
   font-size: 15px
 }
@@ -75,6 +75,7 @@ tbody {
   box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.2);
 }
 
+
 .text-center {
   text-align: center;
 }
@@ -106,7 +107,7 @@ tr {
 }
 
 a {
-  color: #EBEBEB;
+  color: #6B717E;
   text-decoration: none;
 }
 
