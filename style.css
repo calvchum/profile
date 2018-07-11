@@ -24,7 +24,8 @@ p {
 body {
   font-family: 'Open Sans', sans-serif;
   color: #505A5B;
-  background: url(images/greenleaves.jpg);
+  background: url(images/backgroundimage.jpg);
+  background-size: cover;
   font-weight: 300;
   font-size: 15px
 }
